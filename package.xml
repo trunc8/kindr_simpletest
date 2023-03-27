@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>kindr_simpletest</name>
+  <version>0.0.0</version>
+  <description>The kindr_simpletest package</description>
+
+  <maintainer email="trunc8@todo.todo">trunc8</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>kindr</build_depend>
+</package>
